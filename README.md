@@ -10,6 +10,10 @@ The code has been developed so that there is no “divitis”, completely optimi
 
 ## Features
 
+### Look and feel
+
+The designs looks and feels as a default app from Apple.
+
 ### App-ready
 
 You can install this template as a normal App Store app, removing the Safari top navigation bar and enjoying the full screen.
@@ -21,12 +25,6 @@ Hides the sidebar in iPhone, mobiles and iPad portrait mode. Adapts nicely to th
 ### No images
 
 The whole template has been built without requiring any images which means less server queries and increased bandwidth savings.
-
-### Heading styles
-
-Two different heading styles:
-1. the main black one 
-2. the smaller blueish
 
 ### Anchor texts (links)
 
@@ -61,6 +59,12 @@ Graceful degradation: IE9 (no rounded corners), IE8.
 Not working:
 
 * (none tested yet, IE6 I guess)
+
+
+## Contribute
+
+Send requests with your theme, improvements or edits and I will put them.
+
 
 ## License
 
