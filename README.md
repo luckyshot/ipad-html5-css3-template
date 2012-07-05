@@ -1,6 +1,8 @@
 # iPad/iPhone/mobile HTML/CSS template for web apps (responsive, no javascript)
 
-Visit: http://xaviesteve.com/2899/ipad-iphone-mobile-html-css-template-for-web-apps/
+Demo: http://xaviesteve.com/pro/ipad-template/
+
+Full article: http://xaviesteve.com/2899/ipad-iphone-mobile-html-css-template-for-web-apps/
 
 iPad/iPhone template made in pure HTML and CSS (no JavaScript needed) that works perfectly on any modern browser (iPad (including iPad 3), iPhone, tablets, mobiles, laptops, etc.). The template uses responsive queries to hide the sidebar in iPad portrait mode and in the iPhone and smaller screens (you can disable that easily if you want to).
 
