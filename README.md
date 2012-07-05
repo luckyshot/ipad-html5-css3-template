@@ -63,13 +63,31 @@ Not working:
 * (none tested yet, IE6 I guess)
 
 
-## Contribute
-
-Send requests with your theme, improvements or edits and I will put them.
-
 
 ## License
 
 The best of it, I am releasing it under a Public Domain license. This means it is free to use as many times as you want (even for commercial projects) and you do not need to give me credits if you don’t want to. I would appreciate if you do so or if you send me a link to your creation, it will motivate me to develop it further and make me happy.
 
-Visit: http://xaviesteve.com/2899/ipad-iphone-mobile-html-css-template-for-web-apps/
+
+## Comments, improvements, feedback, feature requests and bugs
+If you have any comments, doubts or would like to point out a bug or a feature request you can write a comment at the article (link at the top) or tweet me at @xaviesteve in Twitter. 
+
+
+## Contribute
+
+If you code your own improvements and would like to share them with everyone let me know and I will include them in the next release. Bear in mind that the purpose of this plugin is to remain as simple as possible so drag’n'drops, special effects and lengthy scripts should be avoided.
+
+
+## Changelog
+
+### Version 1.0 (31 January 2012)
+
+* Moved sidebar to the bottom of the HTML.
+* Fixed content header left and right link clickable area
+* Added commented <link rel="stylesheet">, <script> and favicon for faster development
+* Disabled the callout shown when you touch and hold a touch target (thanks 185)
+* Added -webkit-user-select: none (thanks Josiah)
+
+### Version 0.9b (27 January 2012)
+
+* First release
